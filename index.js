@@ -19,4 +19,6 @@ function table(num){
         console.log(`${num} x ${i} = ${num*i}`);
     }   
 }
+console.log("print the table of a number");
+
 table(5);

@@ -22,3 +22,5 @@ function table(num){
 console.log("print the table of a number");
 
 table(5);
+
+console.log("contiune learning reactjs ");

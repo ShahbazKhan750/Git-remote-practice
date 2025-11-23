@@ -8,8 +8,3 @@ function greet(userName) {
 }
 console.log(greet("Alice"));
 
-function above18(age){
-    if(age>18){
-        console.log(`you are eligible for voting ${name}`);
-    }
-}
